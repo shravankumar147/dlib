@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Shravankumar147\Downloads\Documents\Github\learnings\PyEnv_tests\cv_project\dlib\build\dlib\neon_test_build\CMakeFiles\ec62b79d962d297ebbb6691d7bb1e0ed\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1870018B-F363-31C6-980F-16ABB58B8BB9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
