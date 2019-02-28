@@ -6,18 +6,10 @@ C:/Users/Shravankumar147/Downloads/Documents/Github/learnings/PyEnv_tests/cv_pro
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckTypeSize.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFileCXX.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.c.in
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.c.in
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.c.in
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckTypeSize.c.in
-C:/Users/Shravankumar147/Downloads/Documents/Github/learnings/PyEnv_tests/cv_project/dlib/build/temp.win-amd64-3.6/Release/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c
 C:/Program Files/CMake/share/cmake-3.11/Modules/GNUInstallDirs.cmake
 C:/Users/Shravankumar147/Downloads/Documents/Github/learnings/PyEnv_tests/cv_project/dlib/dlib/cmake_utils/release_build_by_default
 C:/Users/Shravankumar147/Downloads/Documents/Github/learnings/PyEnv_tests/cv_project/dlib/dlib/cmake_utils/use_cpp_11.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindGIF.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindPNG.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindZLIB.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/SelectLibraryConfigurations.cmake
@@ -45,10 +37,8 @@ C:/Program Files/CMake/share/cmake-3.11/Modules/FindThreads.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckLibraryExists.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckSymbolExists.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.c.in
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.c
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindLAPACK.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CMakePushCheckState.cmake
@@ -70,12 +60,5 @@ C:/Program Files/CMake/share/cmake-3.11/Modules/CheckSymbolExists.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.c
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.cmake
 C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFortranFunctionExists.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.c
-C:/Program Files/CMake/share/cmake-3.11/Modules/CheckFunctionExists.c
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindCUDA.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
-C:/Program Files/CMake/share/cmake-3.11/Modules/FindCUDA/select_compute_arch.cmake
